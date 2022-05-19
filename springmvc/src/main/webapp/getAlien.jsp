@@ -8,7 +8,7 @@
 </head>
 <body>
 
-The Alien you requested for is : ${a1.aName}
+The Alien you requested for is : ${a1.aName}, ${a1.aName}
 
 
 
