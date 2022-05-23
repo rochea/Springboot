@@ -12,7 +12,7 @@
     <input type="text" name="aId"> <br>
      Enter your Name
     <input type="text" name="aName"> <br>
-    Enter your Marks
+     Enter your Marks
     <input type="text" name="aMarks"> <br>
     <input type="submit"> <br>
   </form><br><br>

@@ -17,6 +17,11 @@
 	<form action="getAlien">
 	<input type="text" name="aId"><br>
 	<input type="submit"><br>
+	</form><br><br>
+	
+	<form action="getTech">
+	<input type="text" name="tech"><br>
+	<input type="submit"><br>
 	</form>
 
 </body>

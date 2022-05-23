@@ -9,7 +9,7 @@ import org.springframework.data.repository.CrudRepository;
 import com.appweb.demo.model.Alien;
 
 public interface Repo extends JpaRepository<Alien, Integer>{   /// curdRepository only return iterables not list.
-																/// japRepository extends curd and pagingandsorting repo 
+																/// jpaRepository extends curd and pagingandsorting repo 
 	
 //	List<Alien> findByaName(String aName);
 //	
